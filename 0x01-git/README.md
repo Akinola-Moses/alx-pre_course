@@ -1,3 +1,1 @@
-GIT LEARNING
-OBJECTIVE- To familiarize myself with git and github
-@ALXSE
+LEARNING GIT: To get familiar with git and github
